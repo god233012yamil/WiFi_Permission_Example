@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Network_Permissions_Example</string>
+
+    <string name="get_wifi_ssid">Get WiFi SSID</string>
+    <string name="ssid_text">SSID shown here</string>
+    <string name="clear">Clear</string>
+    <string name="Empty">SSID shown here</string>
+    <string name="access_fine_location_permission_granted">Access fine location permission was granted.</string>
+    <string name="access_fine_location_permission_denied">Access fine location permission was denied.</string>
+
+    <string name="button_dismiss">Dismiss</string>
+    <string name="access_fine_location_alert_title">Enable Location Service</string>
+    <string name="access_fine_location_alert_message">This application requires the access precise location
+        permission to get the WiFi SSID.\n\n
+        After dismissing this Dialog, allow the application to access device location to be able to get the Wifi SSID.</string>
+
+</resources>
